@@ -1,0 +1,10 @@
+.card{
+    width: 60%;
+    height: 70vh;
+    border: 1px solid rgb(149, 208, 226);
+    background-image: url("./../weather.jpg");
+    text-align: center;
+    color:#fff;
+    box-shadow: 14px 14px 15px rgb(94, 93, 93),-14px -14px 13px rgb(215, 213, 213);
+    border-radius: 10px;
+}

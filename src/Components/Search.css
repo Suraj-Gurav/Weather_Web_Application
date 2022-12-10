@@ -1,0 +1,27 @@
+.row{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.search{
+    width: 200px;
+    padding: 20px;
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin-right: 5px;
+}
+
+.btn{
+    width: 80px;
+    padding: 10px 15px;
+    background-color: rgb(21, 27, 65);
+    color: #fff;
+    font-size: 1rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 5px;
+}
